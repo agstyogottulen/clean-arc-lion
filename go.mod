@@ -1,4 +1,4 @@
-module github.com/agstyo/clean-arc-lion
+module github.com/agstyogottulen/clean-arc-lion
 
 go 1.13
 
